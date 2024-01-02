@@ -85,10 +85,11 @@ img {
   justify-content: center;
   align-items: center;
   box-sizing: border-box;
-  border: 2px solid black;
+  border: 1px solid black;
   border-radius: 1rem;
   padding: 1.4rem;
   gap: 1rem;
+  box-shadow: 0.4rem 0.5rem;
 }
 
 .card-photo {
