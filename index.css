@@ -131,3 +131,8 @@ img {
 .author {
   font-weight: var(--fw-bold);
 }
+
+.title:hover {
+  color: var(--clr-primary);
+  cursor: url("./assets/images/Very-Basic-Hand-Cursor-icon.png"), pointer;
+}
